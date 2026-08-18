@@ -3,3 +3,5 @@ Git Mastery2
 Git Mastery3
 Git Mastery4
 Git Mastery5
+Git Mastery6
+Git Mastery7
